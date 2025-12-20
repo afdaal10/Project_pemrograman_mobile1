@@ -1,13 +1,23 @@
-#  MyBook – UI/UX Documentation  
-## Phase I
+#  Project Aplikasi MyBook 
 
-###  1. Tampilan MYBOOK 
+**Nama:** Afdhal Agislam
+
+**NIM:** 312410445  
+
+**Kelas:** TI 24 A5
+
+**Mata Kuliah:** Pemrograman Mobile 1D
+
+**Dosen Pengampu:** Donny Maulana, S.Kom., M.M.S.I.
+
+
+###  1. MYBOOK PROJECT    
 
 ![my book](mybook.png)
 
 ---
 
-## STORYBOARD
+## 2. STORYBOARD PROJECT
 
 ![Tampilan_storyboard](STORYBOARD.jpg)
 
@@ -15,7 +25,7 @@
 ### Deskripsi Storyboard
 Storyboard ini menggambarkan alur interaksi pengguna dalam aplikasi MyBook, sebuah aplikasi sederhana untuk mencatat daftar buku pribadi. Setiap scene menunjukkan tampilan antarmuka, fungsi tombol, serta respon aplikasi terhadap tindakan pengguna.
 
-## WIREFRAME
+## 3. WIREFRAME PROJECT
 
 ![Tampilan_wireframe](wireframe.png)
 
@@ -25,7 +35,7 @@ Wireframe aplikasi MyBook merupakan rancangan awal yang menggambarkan struktur, 
 
 Wireframe ini membantu menggambarkan bagaimana pengguna akan melakukan pencarian, menambah, melihat detail, memperbarui, hingga menghapus data buku dengan alur yang jelas dan mudah dipahami.
 
-## MOCKUP
+## 4. MOCKUP PROJECT
 
 ![Tampilan_mockup](mockup.png)
 
@@ -33,13 +43,73 @@ Wireframe ini membantu menggambarkan bagaimana pengguna akan melakukan pencarian
 ### Deskripsi Mockup
 Mockup aplikasi MyBook merupakan representasi visual berwarna yang menunjukkan tampilan akhir (final look) dari antarmuka aplikasi. Berbeda dengan wireframe yang hanya menampilkan rangka dasar tanpa detail visual, mockup memberikan gambaran yang lebih realistis mengenai desain, warna, tipografi, ikon, serta tata letak setiap elemen pada aplikasi. Mockup ini membantu pengguna, pengembang, dan desainer memahami bagaimana aplikasi akan terlihat saat digunakan.
 
-## SPLASHSCREEN
+## 5. SPLASHSCREEN 
 
 ![Tampilan_Splashcreen](Splashscreen.png)
 
 ---
 ### Deskripsi Splashscreen
 Splashscreen pada aplikasi MyBook merupakan tampilan awal yang muncul sesaat setelah pengguna membuka aplikasi. Halaman ini dirancang untuk memberikan kesan pertama yang profesional, ramah, dan mudah dikenali. Desain splashscreen memuat identitas visual aplikasi secara sederhana namun tetap elegan.
+
+## 6. UI (USER INTERFACE) PROJECT
+
+![Tampilan_ui](mockup.png)
+
+
+### Deskripsi UI (USER INTERFACE) Project 
+Aplikasi MyBook memiliki tampilan antarmuka yang sederhana, bersih, dan mudah digunakan. Desain UI dibuat dengan fokus pada kenyamanan pengguna dalam mencatat dan mengelola daftar buku pribadi. Dominasi warna biru memberikan kesan modern, konsisten, dan profesional di seluruh halaman aplikasi.
+
+## 7. UX (USER EXPERIENCE) PROJECT
+
+![Tampilan_ux](mockup.png)
+
+## 8. IMPLEMENTASI ANDROID STUDIO
+
+###  Splashscreen
+
+![Tampilan_ux](mockup.png)
+
+### Tampilan Welcome
+
+![Tampilan_ux](mockup.png)
+
+### Tampilan Home/Daftar buku
+
+![Tampilan_ux](mockup.png)
+
+### Fitur Tambah Buku
+
+![Tampilan_ux](mockup.png)
+
+### Fitur Detail Buku
+
+![Tampilan_ux](mockup.png)
+
+### Fitur Edit Buku
+
+![Tampilan_ux](mockup.png)
+
+### Tampilan Profil Aplikasi My Book
+
+![Tampilan_ux](mockup.png)
+
+## 9. MEMBUAT NOTIFIKASI 
+
+### Firebase
+
+![Tampilan_ux](mockup.png)
+
+### Tampilan Notifikasi Muncul
+
+![Tampilan_ux](mockup.png)
+
+
+
+
+
+
+
+
 
 
 
