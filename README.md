@@ -53,7 +53,7 @@ Splashscreen pada aplikasi MyBook merupakan tampilan awal yang muncul sesaat set
 
 ## 6. UI (USER INTERFACE) PROJECT
 
-![Tampilan_ui](mockup.png)
+![Tampilan_ui](tampilan_ui.png)
 
 
 ### Deskripsi UI (USER INTERFACE) Project 
@@ -61,7 +61,7 @@ Aplikasi MyBook memiliki tampilan antarmuka yang sederhana, bersih, dan mudah di
 
 ## 7. UX (USER EXPERIENCE) PROJECT
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](tampilan_ux.png)
 
 ## 8. IMPLEMENTASI ANDROID STUDIO
 
