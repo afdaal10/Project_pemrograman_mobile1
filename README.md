@@ -67,41 +67,41 @@ Aplikasi MyBook memiliki tampilan antarmuka yang sederhana, bersih, dan mudah di
 
 ###  Splashscreen
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](tampilan_splashscreen.png)
 
 ### Tampilan Welcome
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](tampilan_welcome.png)
 
 ### Tampilan Home/Daftar buku
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](tampilan_home.png)
 
 ### Fitur Tambah Buku
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](tampilan_tambah.png)
 
 ### Fitur Detail Buku
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](tampilan_detail.png)
 
 ### Fitur Edit Buku
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](tampilan_edit.png)
 
 ### Tampilan Profil Aplikasi My Book
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](tampilan_profil.png)
 
 ## 9. MEMBUAT NOTIFIKASI 
 
 ### Firebase
 
-![Tampilan_ux](mockup.png)
+![Tampilan_ux](firebase.png)
 
 ### Tampilan Notifikasi Muncul
 
-![Tampilan_ux](mockup.png)
+![Tampilan_notip](tampilan_notif.png)
 
 
 
