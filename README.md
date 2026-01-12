@@ -95,7 +95,7 @@ Aplikasi MyBook memiliki tampilan antarmuka yang sederhana, bersih, dan mudah di
 
 ### Tampilan Deteksi Location
 
-Lokasi di Japan
+Say Hello Lokasi di Japan
 
 ![Tampilan_ux](lokasi_japan.png)
 
@@ -109,6 +109,14 @@ Lokasi di Japan
 ### Tampilan Notifikasi Muncul
 
 ![Tampilan_notip](tampilan_notif.png)
+
+**Link ClickUp:** https://sharing.clickup.com/90181792291/b/h/2kzm1wh3-378/473b0c4ce8ebf0a
+
+**Link Figma:** https://www.figma.com/design/qTooaZ1nDcthkvW0mvyBii/MYBOOK?node-id=0-1&p=f&t=ggIDLryw9ilzNHVR-
+
+**Link YouTube:** https://youtu.be/Odh4Sx7LhMs
+
+**Link Prototype Figma:** https://www.figma.com/proto/qTooaZ1nDcthkvW0mvyBii/MYBOOK?node-id=1-3041&t=nfDguKzGR2oui2xx-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=25%3A12
 
 
 
