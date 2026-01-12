@@ -93,6 +93,13 @@ Aplikasi MyBook memiliki tampilan antarmuka yang sederhana, bersih, dan mudah di
 
 ![Tampilan_ux](tampilan_profil.png)
 
+### Tampilan Deteksi Location
+
+Lokasi di Japan
+
+![Tampilan_ux](tampilan_lokasi.png)
+
+
 ## 9. MEMBUAT NOTIFIKASI 
 
 ### Firebase
