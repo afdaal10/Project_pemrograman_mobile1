@@ -97,7 +97,7 @@ Aplikasi MyBook memiliki tampilan antarmuka yang sederhana, bersih, dan mudah di
 
 Lokasi di Japan
 
-![Tampilan_ux](tampilan_lokasi.png)
+![Tampilan_ux](tampilan_lokasi.jpeg)
 
 
 ## 9. MEMBUAT NOTIFIKASI 
